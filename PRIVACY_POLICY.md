@@ -4,7 +4,7 @@
 
 ## Introduction
 
-FroggyEye ("we", "our", or "us") operates the 8 Ball Wisdom mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
+FroggyEye Ltd("we", "our", or "us") operates the 8 Ball Wisdom mobile application (the "App"). This Privacy Policy explains how we collect, use, and protect your information when you use our App.
 
 ## Information We Collect
 
