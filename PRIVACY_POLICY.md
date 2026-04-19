@@ -74,13 +74,13 @@ If you are located in the EEA, UK, or Switzerland, you have the right to:
 - Withdraw consent for personalized advertising at any time via your device settings
 - Lodge a complaint with your local data protection authority
 
-To exercise these rights, email **privacy@froggyeye.com**.
+To exercise these rights, email **info@froggyeye.com**.
 
 ## Your Rights (CCPA — California)
-California residents have the right to know what personal information is collected, request deletion, and opt out of the "sale" or "sharing" of personal information. The App does not sell personal information. To exercise your rights, email **privacy@froggyeye.com**.
+California residents have the right to know what personal information is collected, request deletion, and opt out of the "sale" or "sharing" of personal information. The App does not sell personal information. To exercise your rights, email **info@froggyeye.com**.
 
 ## Data Deletion
-Because the App does not require an account and stores only local preferences on your device, you can delete all local data by uninstalling the App. For any data held by our ad partners, use the opt-out controls described above or contact us at **privacy@froggyeye.com**.
+Because the App does not require an account and stores only local preferences on your device, you can delete all local data by uninstalling the App. For any data held by our ad partners, use the opt-out controls described above or contact us at **info@froggyeye.com**.
 
 ## Children's Privacy
 
@@ -98,7 +98,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 If you have questions about this Privacy Policy, please contact us at:
 
-**Email**: privacy@froggyeye.com
+**Email**: info@froggyeye.com
 
 ---
 
